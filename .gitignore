@@ -4,6 +4,9 @@
 kakaoapikey.txt
 roadapikey.txt
 chromedriver.exe
+labeledTrainData.tsv
+model/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
